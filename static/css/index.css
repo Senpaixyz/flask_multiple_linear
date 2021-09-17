@@ -1,0 +1,6 @@
+body{
+    background: url('../images/banner.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x:right;
+}
